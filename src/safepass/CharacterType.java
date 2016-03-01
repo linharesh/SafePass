@@ -9,15 +9,10 @@ package safepass;
  *
  * @author HenriqueLinhares
  */
-public class Launcher {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        View view = new View();
-        
-    }
+public class CharacterType {
+    
+    
+    
+    
     
 }
